@@ -28,7 +28,7 @@ module.exports = {
           background_color: `#3730a3`,
           theme_color: `#3730a3`,
           display: `standalone`,
-          icon: "src/data/images/zfp-circle.png",
+          icon: "src/data/images/zfp-logo-rainbow.svg",
           icon_options: {
             purpose: `any maskable`,
           },

@@ -1,5 +1,5 @@
 {
-  "name": "crispytaytortot.com",
+  "name": "zachfox.io",
   "version": "0.0.1",
   "private": true,
   "description": "",
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zfox23/crispytaytortot.com.git"
+    "url": "git+https://github.com/zfox23/zachfox.io.git"
   },
   "author": "Zach Fox",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/zfox23/crispytaytortot.com#readme",
+  "homepage": "https://github.com/zfox23/zachfox.io#readme",
   "dependencies": {
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18",
